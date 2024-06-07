@@ -16,7 +16,7 @@ public class Ejercicio3 {
      */
      public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int inicio, fin;
+        int inicio, fin, suma = 0;
 
         System.out.print("Ingrese el número inicial: ");
         inicio = scanner.nextInt();
